@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+} 
+.menu{
+    background-color: black;
+    height: 50px;
+    margin: 0px; 
+    border-radius: 20px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+}
+.ruban{
+    text-align: left;
+}
+.head{
+    text-align: center;
+    background-color: white;
+    height: 90px;
+    border-radius: 50px;
+}
+img{
+    width: 900px;
+    height: 900px;
+}
+.content p{
+    text-align: left;
+    display: flex;
+}
+section{
+    border-radius: 50px;
+}
